@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionsAssignment", "PermissionsAssignment\PermissionsAssignment.csproj", "{F08A50CF-78E2-4E19-ADF4-DCC935A2DB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionsAssignment.Test", "PermissionsAssignment.Test\PermissionsAssignment.Test.csproj", "{1E7AD67A-CA7B-43A4-AE5D-9E9D2F11F85B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4F0B871A-33C3-477B-A00A-4D69439EFC65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F08A50CF-78E2-4E19-ADF4-DCC935A2DB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08A50CF-78E2-4E19-ADF4-DCC935A2DB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08A50CF-78E2-4E19-ADF4-DCC935A2DB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08A50CF-78E2-4E19-ADF4-DCC935A2DB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7AD67A-CA7B-43A4-AE5D-9E9D2F11F85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7AD67A-CA7B-43A4-AE5D-9E9D2F11F85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7AD67A-CA7B-43A4-AE5D-9E9D2F11F85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7AD67A-CA7B-43A4-AE5D-9E9D2F11F85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0B871A-33C3-477B-A00A-4D69439EFC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0B871A-33C3-477B-A00A-4D69439EFC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0B871A-33C3-477B-A00A-4D69439EFC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0B871A-33C3-477B-A00A-4D69439EFC65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

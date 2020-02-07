@@ -1,0 +1,31 @@
+﻿# Number of users
+6
+
+# CEO Permissions
+A
+
+# User 1's permissions
+A B
+# User 2's permissions
+C
+# User 3's permissions
+E F
+# User 4's permissions
+C D
+# User 5's permissions
+A B
+# User 6's permissions
+E
+
+# User 1's manager
+CEO
+# User 2's manager
+CEO
+# User 3's manager
+1
+# User 4's manager
+1
+# User 5's manager
+1
+# User 6's manager
+2

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  permissionsassignment:
+    image: ${DOCKER_REGISTRY-}permissionsassignment
+    build:
+      context: .
+      dockerfile: PermissionsAssignment/Dockerfile
